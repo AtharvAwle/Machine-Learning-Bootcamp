@@ -1,0 +1,8 @@
+This is new statement with the new line char
+Hello this is atharv awle
+Append operation
+this is the next new line
+first line
+second line
+third line
+fourth line
